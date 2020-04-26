@@ -7,6 +7,7 @@
 **Thoughts**: I made good progress today. I went through Plaid's documentation and created a working example using their APIs and API keys.
 
 **Link(s) to work**
+
 1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
 2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
 
@@ -17,6 +18,7 @@
 **Thoughts**: I didn't have as much time today, but I was still able to make some progress on my app. Progress is progress.
 
 **Link(s) to work**
+
 1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
 2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
 
@@ -28,5 +30,28 @@ I also got Plaid's transaction api working, and I'll be looking to integrate thi
 **Thoughts**: I was able to fix the transactions api and create a plan for the frontend. Will look to expand on this tomorrow.
 
 **Link(s) to work**
+
+1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
+2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
+
+### Day 4: April 21, 2020 - Wednesday
+
+**Today's Progress**: I experimented with Kubernetes today, creating persistent volumes and spinning up pods in a cluster.
+
+**Thoughts**: I wanted to see why Kubernetes was gaining so much traction in the market, and spent today playing around with different aspects of the technology. It was fun, and a nice break from working on my budgeting app.
+
+**Link(s) to work**
+
+1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
+2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
+
+### Day 5: April 26, 2020 - Sunday
+
+**Today's Progress**: I continued working on my budgeting app, doing mostly frontend work in React. I integrated the transactions api and playing around with React Hooks.
+
+**Thoughts**: Even though I missed a few days, I don't see it as a setback. The past few days at work were pretty hectic, so it was good that I'm able to rechargea and hop right back in today.
+
+**Link(s) to work**
+
 1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
 2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
