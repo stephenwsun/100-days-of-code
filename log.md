@@ -49,7 +49,18 @@ I also got Plaid's transaction api working, and I'll be looking to integrate thi
 
 **Today's Progress**: I continued working on my budgeting app, doing mostly frontend work in React. I integrated the transactions api and playing around with React Hooks.
 
-**Thoughts**: Even though I missed a few days, I don't see it as a setback. The past few days at work were pretty hectic, so it was good that I'm able to rechargea and hop right back in today.
+**Thoughts**: Even though I missed a few days, I don't see it as a setback. The past few days at work were pretty hectic, so it was good that I'm able to recharge and hop right back in today.
+
+**Link(s) to work**
+
+1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
+2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
+
+### Day 6: April 28, 2020 - Sunday
+
+**Today's Progress**: I spent today creating SQL tables, models, and routes in Node.js.
+
+**Thoughts**: I've decided to work on 100 days of code earlier in the morning before my work day starts. I've found that by the end of day, I'm either too tired or have other side projects I need to work on.
 
 **Link(s) to work**
 
