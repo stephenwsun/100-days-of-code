@@ -56,11 +56,33 @@ I also got Plaid's transaction api working, and I'll be looking to integrate thi
 1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
 2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
 
-### Day 6: April 28, 2020 - Sunday
+### Day 6: April 28, 2020 - Tuesday
 
 **Today's Progress**: I spent today creating SQL tables, models, and routes in Node.js.
 
 **Thoughts**: I've decided to work on 100 days of code earlier in the morning before my work day starts. I've found that by the end of day, I'm either too tired or have other side projects I need to work on.
+
+**Link(s) to work**
+
+1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
+2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
+
+### Day 7: April 29, 2020 - Wednesday
+
+**Today's Progress**: Worked on creating Docker images and creating CI/CD pipelines for my React and Node.js apps.
+
+**Thoughts**: Struggled a bit with copying files in my scripts and had to do some reading on how Docker handles context. I eventually got it working.
+
+**Link(s) to work**
+
+1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
+2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
+
+### Day 8: May 1, 2020 - Friday
+
+**Today's Progress**: Working more in Node.js and Sequelize ORM today. Focused on database seeding and also writing unit tests with Jest.
+
+**Thoughts**: Didn't have a good start to the day. I usually try to get my 100 days of coding done before work but ran into internet and IDE issues.
 
 **Link(s) to work**
 
