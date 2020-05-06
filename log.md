@@ -99,3 +99,14 @@ I also got Plaid's transaction api working, and I'll be looking to integrate thi
 
 1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
 2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
+
+### Day 10: May 6, 2020 - Wednesday
+
+**Today's Progress**: Worked on building out class methods for the Plaid client.
+
+**Thoughts**: Only had 1 hour of spare time today before work, but had another very productive session.
+
+**Link(s) to work**
+
+1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
+2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
