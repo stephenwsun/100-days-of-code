@@ -110,3 +110,14 @@ I also got Plaid's transaction api working, and I'll be looking to integrate thi
 
 1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
 2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
+
+### Day 11: May 11, 2020 - Monday
+
+**Today's Progress**: Created endpoints for getting data for institutions, accounts, and transactions.
+
+**Thoughts**: What is the general consensus of using classes in Node.js?
+
+**Link(s) to work**
+
+1. [Frontend Repo: react-more-money](https://github.com/stephenwsun/react-more-money)
+2. [Backend Repo: node-more-money](https://github.com/stephenwsun/node-more-money)
